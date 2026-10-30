@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/atsutada",
  "yomi": "ごんちゅうなごんあつただきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "藤原敦忠（906〜943）",
+  "desc": "三十六歌仙の一人、藤原敦忠の家集。忍ぶ恋や女との贈答の歌が大半を占める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -566,6 +571,6 @@
   "poems": 46,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
